@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mastra": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mastra/mcp-docs-server@latest",
+        "--api-url",
+        "https://server.smithery.ai/@MuratYurtseven/recipemcp/mcp?api_key=f7a08cd0-4be5-4ec0-9c4d-bf8bae4c6b24"
+      ]
+    }
+  }
+}
+
